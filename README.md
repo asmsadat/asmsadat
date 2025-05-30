@@ -6,8 +6,10 @@ I’m a passionate Computer Engineer with fundamental knowledge in problem-solvi
 ## Skills:
 - Languages: C / C++ / C# / Javascript
 - Front-end Framework: React JS
-- Back-end Framework: Express JS
-- Tools: Git / Shell Script / Latex
+- Back-end Framework: Express JS, ASP.NET MVC
+- Database: MongoDB, Microsoft SQL Server, PostgreSQL
+- Tools: Git / Github / Firebase / Postman / Latex
+- Software: Microsoft Office / Figma / Adobe Photoshop / AdobeIllustrator
 - OS: Windows, Linux
 
 ## Currently Learning
