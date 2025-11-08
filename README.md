@@ -6,14 +6,13 @@ I’m a passionate Computer Engineer with fundamental knowledge in problem-solvi
 ## Skills:
 - Languages: C / C++ / C# / Javascript
 - Front-end Framework: React JS
-- Back-end Framework: Express JS, ASP.NET MVC
-- Database: MongoDB, Microsoft SQL Server, PostgreSQL
-- Tools: Git / Github / Firebase / Postman / Latex
-- Software: Microsoft Office / Figma / Adobe Photoshop / AdobeIllustrator
+- Back-end Framework: Express JS, ASP.NET
+- Database: MongoDB, Microsoft SQL Server, PostgreSQL, MySQL
+- ORM: Sequelize
+- Tools: Git / Github / JWT / Firebase / Postman / Latex
+- Software: Microsoft Office / Figma / AdobeIllustrator
 - OS: Windows, Linux
 
-## Currently Learning
-- C# / ASP.NET Core
 
 ## Contact
 E-mail: contact.asmsadat@gmail.com 
